@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @perryd01
-- 👀 I’m interested in Nodejs, React
+- 👀 I’m interested in Nodejs, React, Golang
 - 🌱 I’m currently learning Computer Science at [BME](http://www.bme.hu/)
